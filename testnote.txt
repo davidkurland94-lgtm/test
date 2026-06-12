@@ -7,4 +7,8 @@ Location: Tokyo, Japan
 
 Editing this from the remote repository
 
+
 Editing after the remote pull
+
+Hi from the remote
+
