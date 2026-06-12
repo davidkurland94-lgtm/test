@@ -1,2 +1,6 @@
 Hello, Git!
 This is my first commit
+
+I'm adding this information:
+Name: David Kurland
+Location: Tokyo, Japan
